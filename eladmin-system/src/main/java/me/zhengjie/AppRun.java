@@ -38,8 +38,6 @@ public class AppRun {
         return fa;
     }
 
-
-
     /**
      * 访问首页提示
      * @return /
